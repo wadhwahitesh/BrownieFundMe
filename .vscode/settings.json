@@ -1,0 +1,4 @@
+{
+    "solidity.defaultCompiler": "remote",
+    "python.defaultInterpreterPath": "python3"
+}
